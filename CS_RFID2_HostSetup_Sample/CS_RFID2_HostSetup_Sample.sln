@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CS_RFID2_HostSetup_Sample", "CS_RFID2_HostSetup_Sample.vdproj", "{FD169CD9-6EE9-45DC-87EC-8FA1E18357C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_RFID2_Host_Sample", "..\CS_RFID2_Host_Sample\CS_RFID2_Host_Sample.csproj", "{C26BBFF9-2F14-4F05-B2C7-95F5A515A8B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD169CD9-6EE9-45DC-87EC-8FA1E18357C9}.Debug|Any CPU.ActiveCfg = Debug
+		{FD169CD9-6EE9-45DC-87EC-8FA1E18357C9}.Debug|Any CPU.Build.0 = Debug
+		{FD169CD9-6EE9-45DC-87EC-8FA1E18357C9}.Release|Any CPU.ActiveCfg = Release
+		{FD169CD9-6EE9-45DC-87EC-8FA1E18357C9}.Release|Any CPU.Build.0 = Release
+		{C26BBFF9-2F14-4F05-B2C7-95F5A515A8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26BBFF9-2F14-4F05-B2C7-95F5A515A8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26BBFF9-2F14-4F05-B2C7-95F5A515A8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26BBFF9-2F14-4F05-B2C7-95F5A515A8B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

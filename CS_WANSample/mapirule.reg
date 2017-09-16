@@ -1,0 +1,8 @@
+[HKEY_CLASSES_ROOT\CLSID\{3AB4C10E-673C-494c-98A2-CC2E91A48115}\InProcServer32]
+  @="mapirule.dll"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Inbox\Svc\SMS\Rules]
+   "{3AB4C10E-673C-494c-98A2-CC2E91A48115}"=dword:1
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\MapiRule]
+  "WindowName"="FavoriteWndClass"

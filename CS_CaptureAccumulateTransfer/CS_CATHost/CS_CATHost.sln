@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_CATHost", "CS_CATHost.csproj", "{B2A54AE8-36F1-4DA2-8BDA-ED574197FD9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A54AE8-36F1-4DA2-8BDA-ED574197FD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A54AE8-36F1-4DA2-8BDA-ED574197FD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A54AE8-36F1-4DA2-8BDA-ED574197FD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A54AE8-36F1-4DA2-8BDA-ED574197FD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,230 @@
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\Symbol.RFID3.Host.xml
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csprojResolveAssemblyReference.cache
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.exe
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe.config
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\MySql.Data.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\MySql.Web.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\MySql.Web.v20.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\office.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\Microsoft.Vbe.Interop.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\stdole.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\bin\debug\CS_RFID3_Host_Sample2.exe.config
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.exe
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\bin\debug\CS_RFID3_Host_Sample2.exe
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\bin\debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\bin\debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\bin\debug\office.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\bin\debug\Microsoft.Vbe.Interop.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\bin\debug\stdole.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\bin\debug\Symbol.RFID3.Host.xml
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.csprojResolveAssemblyReference.cache
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\3 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\bin\debug\CS_RFID3_Host_Sample2.exe.config
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.exe
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.csprojResolveAssemblyReference.cache
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antanaas and 4 tags calibration\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\bin\debug\CS_RFID3_Host_Sample2.exe.config
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.exe
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\bin\debug\CS_RFID3_Host_Sample2.exe
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\bin\debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\bin\debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\bin\debug\office.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\bin\debug\Microsoft.Vbe.Interop.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\bin\debug\stdole.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\bin\debug\Symbol.RFID3.Host.xml
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.csprojResolveAssemblyReference.cache
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\New folder\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\bin\debug\CS_RFID3_Host_Sample2.exe.config
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.exe
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\bin\debug\CS_RFID3_Host_Sample2.exe
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\bin\debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\bin\debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\bin\debug\office.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\bin\debug\Microsoft.Vbe.Interop.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\bin\debug\stdole.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\bin\debug\Symbol.RFID3.Host.xml
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.csprojResolveAssemblyReference.cache
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4antanaas and 4 tags plus 3 ref tags calibration\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\bin\debug\CS_RFID3_Host_Sample2.exe.config
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.exe
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\bin\debug\CS_RFID3_Host_Sample2.exe
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\bin\debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\bin\debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\bin\debug\MySql.Data.dll
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\bin\debug\MySql.Web.dll
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\bin\debug\MySql.Web.v20.dll
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\bin\debug\office.dll
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\bin\debug\Microsoft.Vbe.Interop.dll
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\bin\debug\stdole.dll
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\bin\debug\Symbol.RFID3.Host.xml
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.csprojResolveAssemblyReference.cache
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+C:\Users\nem lab\Desktop\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antennas with 4 ref tag and 1 object tag\bin\debug\CS_RFID3_Host_Sample2.exe.config
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.exe
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\4 antennas with 4 ref tag and 1 object tag\obj\Debug\CS_RFID3_Host_Sample2.pdb

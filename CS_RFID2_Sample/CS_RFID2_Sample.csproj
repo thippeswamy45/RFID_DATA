@@ -1,0 +1,246 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{35256512-90E3-4A0A-B5E9-4E8758DE99F3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CS_RFID2_Sample</RootNamespace>
+    <AssemblyName>CS_RFID2_Sample</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.00</OSVersion>
+    <DeployDirSuffix>
+    </DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <DeployDirPrefix>%25CSIDL_PROGRAM_FILES%25</DeployDirPrefix>
+    <StartupObject>CS_RFID2_Sample.Program</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <NativePlatformName>Windows CE</NativePlatformName>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="Symbol, Version=1.6.1.4, Culture=neutral, PublicKeyToken=68ec8db391f150ca">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Symbol.ResourceCoordination, Version=1.6.1.7, Culture=neutral, PublicKeyToken=68ec8db391f150ca">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Symbol.RFID2.Device, Version=2.2.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmCapabilties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCapabilties.designer.cs">
+      <DependentUpon>FrmCapabilties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGen2Kill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGen2Kill.Designer.cs">
+      <DependentUpon>FrmGen2Kill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGen2Lock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGen2Lock.Designer.cs">
+      <DependentUpon>FrmGen2Lock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGen2Read.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGen2Read.Designer.cs">
+      <DependentUpon>FrmGen2Read.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGen2Write.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGen2Write.Designer.cs">
+      <DependentUpon>FrmGen2Write.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReadAntennaInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReadAntennaInfo.designer.cs">
+      <DependentUpon>FrmReadAntennaInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReadData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReadData.designer.cs">
+      <DependentUpon>FrmReadData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReaderInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReaderInfo.designer.cs">
+      <DependentUpon>FrmReaderInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSelectRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSelectRecord.Designer.cs">
+      <DependentUpon>FrmSelectRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSetAntenna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSetAntenna.designer.cs">
+      <DependentUpon>FrmSetAntenna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSettings.designer.cs">
+      <DependentUpon>FrmSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFormCE4.2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFormCE4.2.Designer.cs">
+      <DependentUpon>MainFormCE4.2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <EmbeddedResource Include="FrmCapabilties.resx">
+      <DependentUpon>FrmCapabilties.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGen2Kill.resx">
+      <DependentUpon>FrmGen2Kill.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGen2Lock.resx">
+      <DependentUpon>FrmGen2Lock.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGen2Read.resx">
+      <DependentUpon>FrmGen2Read.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGen2Write.resx">
+      <DependentUpon>FrmGen2Write.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReadAntennaInfo.resx">
+      <DependentUpon>FrmReadAntennaInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReadData.resx">
+      <DependentUpon>FrmReadData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReaderInfo.resx">
+      <DependentUpon>FrmReaderInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSelectRecord.resx">
+      <DependentUpon>FrmSelectRecord.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSetAntenna.resx">
+      <DependentUpon>FrmSetAntenna.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSettings.resx">
+      <DependentUpon>FrmSettings.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFormCE4.2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainFormCE4.2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReaderSettings.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReaderSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs" />
+    <Compile Include="ReaderSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReaderSettings.Designer.cs">
+      <DependentUpon>ReaderSettings.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PostBuild.Bat" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>"$(ProjectDir)PostBuild.bat" $(SolutionName) "$(ProjectDir)" "$(OutDir)"  $(TargetFileName)  "$(SolutionDir)"</PostBuildEvent>
+  </PropertyGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v3.5'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+</Project>

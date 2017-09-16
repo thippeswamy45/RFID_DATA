@@ -1,0 +1,351 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B7BFA7F0-6731-4DF8-A229-0E390A272398}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CS_RFID3Sample6</RootNamespace>
+    <AssemblyName>CS_RFID3Sample6</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>4118C335-430C-497f-BE48-11C3316B135E</PlatformID>
+    <OSVersion>5.01</OSVersion>
+    <DeployDirSuffix>CS_RFID3Sample6</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <NativePlatformName>Windows Mobile 5.0 Pocket PC SDK</NativePlatformName>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.WindowsCE.Forms" />
+    <Reference Include="mscorlib" />
+    <Reference Include="Symbol.RFID3.Device, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccessFilterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccessFilterForm.designer.cs">
+      <DependentUpon>AccessFilterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AntennaConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AntennaConfigForm.designer.cs">
+      <DependentUpon>AntennaConfigForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AntennaInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AntennaInfoForm.designer.cs">
+      <DependentUpon>AntennaInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AntennaModeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AntennaModeForm.Designer.cs">
+      <DependentUpon>AntennaModeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppForm.designer.cs">
+      <DependentUpon>AppForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlockEraseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockEraseForm.designer.cs">
+      <DependentUpon>BlockEraseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CapabilitiesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapabilitiesForm.designer.cs">
+      <DependentUpon>CapabilitiesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectionForm.designer.cs">
+      <DependentUpon>ConnectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirmwareUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirmwareUpdateForm.designer.cs">
+      <DependentUpon>FirmwareUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpForm.Designer.cs">
+      <DependentUpon>HelpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KillForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KillForm.designer.cs">
+      <DependentUpon>KillForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LocateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LocateForm.Designer.cs">
+      <DependentUpon>LocateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LockForm.designer.cs">
+      <DependentUpon>LockForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotoProgressBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MotoProgressBar.designer.cs">
+      <DependentUpon>MotoProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PostFilterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PostFilterForm.designer.cs">
+      <DependentUpon>PostFilterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PreFilterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PreFilterForm.designer.cs">
+      <DependentUpon>PreFilterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AccessFilterForm.resx">
+      <DependentUpon>AccessFilterForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AntennaConfigForm.resx">
+      <DependentUpon>AntennaConfigForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AntennaInfoForm.resx">
+      <DependentUpon>AntennaInfoForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AntennaModeForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AntennaModeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppForm.resx">
+      <DependentUpon>AppForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlockEraseForm.resx">
+      <DependentUpon>BlockEraseForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapabilitiesForm.resx">
+      <DependentUpon>CapabilitiesForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectionForm.resx">
+      <DependentUpon>ConnectionForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirmwareUpdateForm.resx">
+      <DependentUpon>FirmwareUpdateForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HelpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KillForm.resx">
+      <DependentUpon>KillForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LocateForm.resx">
+      <DependentUpon>LocateForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LockForm.resx">
+      <DependentUpon>LockForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotoProgressBar.resx">
+      <DependentUpon>MotoProgressBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PostFilterForm.resx">
+      <DependentUpon>PostFilterForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreFilterForm.resx">
+      <DependentUpon>PreFilterForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RadioPowerForm.resx">
+      <DependentUpon>RadioPowerForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReadForm.resx">
+      <DependentUpon>ReadForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RFModeForm.resx">
+      <DependentUpon>RFModeForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SingulationForm.resx">
+      <DependentUpon>SingulationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TagDataForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TagDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TagStorageForm.resx">
+      <DependentUpon>TagStorageForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TriggerForm.resx">
+      <DependentUpon>TriggerForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WriteForm.resx">
+      <DependentUpon>WriteForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="RadioPowerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RadioPowerForm.designer.cs">
+      <DependentUpon>RadioPowerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReadForm.designer.cs">
+      <DependentUpon>ReadForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RFModeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RFModeForm.designer.cs">
+      <DependentUpon>RFModeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SingulationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SingulationForm.designer.cs">
+      <DependentUpon>SingulationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemInfoForm.Designer.cs">
+      <DependentUpon>SystemInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TagDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TagDataForm.Designer.cs">
+      <DependentUpon>TagDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TagStorageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TagStorageForm.designer.cs">
+      <DependentUpon>TagStorageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TriggerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TriggerForm.designer.cs">
+      <DependentUpon>TriggerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WriteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WriteForm.designer.cs">
+      <DependentUpon>WriteForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v3.5'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+</Project>

@@ -1,0 +1,183 @@
+<VisualStudioProject>
+    <ECSHARP
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "1.0"
+        ProjectGuid = "{0A1A20BB-44BE-4FCE-9522-3ACADD126E34}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = ""
+                AssemblyKeyContainerName = ""
+                AssemblyName = "CS_SysInfoSample1"
+                AssemblyOriginatorKeyFile = ""
+                DelaySign = "false"
+                OutputType = "WinExe"
+                OutputFileFolder = "\Program Files\CS_SysInfoSample1"
+                RootNamespace = "CS_SysInfoSample1"
+                StartupObject = ""
+            >
+                <Platform Name = "Windows CE" />
+                <Config
+                    Name = "Debug|Windows CE"
+                    AllowUnsafeBlocks = "true"
+                    BaseAddress = "0"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    Optimize = "false"
+                    OutputPath = "bin\Debug\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release|Windows CE"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "0"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    Optimize = "true"
+                    OutputPath = "bin\Release\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Platform = "Windows CE"
+                    Name = "MSCorLib"
+                    AssemblyName = "mscorlib"
+                    Private = "False"
+                />
+                <Reference
+                    Platform = "Windows CE"
+                    Name = "System"
+                    AssemblyName = "System"
+                    Private = "False"
+                />
+                <Reference
+                    Platform = "Windows CE"
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                    Private = "False"
+                />
+                <Reference
+                    Platform = "Windows CE"
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                    Private = "False"
+                />
+                <Reference
+                    Platform = "Windows CE"
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    Private = "False"
+                />
+                <Reference
+                    Platform = "Windows CE"
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    Private = "False"
+                />
+                <Reference
+                    Platform = "Windows CE"
+                    Name = "Symbol"
+                    AssemblyName = "Symbol"
+                />
+                <Reference
+                    Platform = "Windows CE"
+                    Name = "Symbol.Barcode"
+                    AssemblyName = "Symbol.Barcode"
+                />
+                <Reference
+                    Platform = "Windows CE"
+                    Name = "Symbol.Notification"
+                    AssemblyName = "Symbol.Notification"
+                />
+                <Reference
+                    Platform = "Windows CE-Designer"
+                    Name = "System.CF.Design"
+                    AssemblyName = "System.CF.Design"
+                    Private = "False"
+                />
+                <Reference
+                    Platform = "Windows CE-Designer"
+                    Name = "System.CF.Design.UI"
+                    AssemblyName = "System.CF.Design.UI"
+                    Private = "False"
+                />
+                <Reference
+                    Platform = "Windows CE-Designer"
+                    Name = "System.CF.Windows.Forms"
+                    AssemblyName = "System.CF.Windows.Forms"
+                    Private = "False"
+                />
+                <Reference
+                    Platform = "Windows CE-Designer"
+                    Name = "System.CF.Drawing"
+                    AssemblyName = "System.CF.Drawing"
+                    Private = "False"
+                />
+                <Reference
+                    Platform = "Windows CE-Designer"
+                    Name = "System"
+                    AssemblyName = "System"
+                    Private = "False"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "AboutForm.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "AboutForm.resx"
+                    DependentUpon = "AboutForm.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Resources.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Resources.resx"
+                    DependentUpon = "Resources.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "SIForm.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "SIForm.resx"
+                    DependentUpon = "SIForm.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+            </Include>
+        </Files>
+    </ECSHARP>
+</VisualStudioProject>
+

@@ -1,0 +1,178 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C26BBFF9-2F14-4F05-B2C7-95F5A515A8B3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CS_RFID2_Host_Sample</RootNamespace>
+    <AssemblyName>CS_RFID2_Host_Sample</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Symbol.RFID2.Host, Version=2.0.0.11, Culture=neutral, PublicKeyToken=68ec8db391f150ca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Motorola EMDK for .NET\v2.1\SDK\PC\Symbol.RFID2.Host.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="ClsReader.cs" />
+    <Compile Include="FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMonitorInterval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMonitorInterval.Designer.cs">
+      <DependentUpon>FrmMonitorInterval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReaderCapabilities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReaderCapabilities.Designer.cs">
+      <DependentUpon>frmReaderCapabilities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReaderInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReaderInfo.designer.cs">
+      <DependentUpon>frmReaderInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetAntenna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetAntenna.designer.cs">
+      <DependentUpon>frmSetAntenna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KYListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAbout.resx">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdd.resx">
+      <DependentUpon>frmAdd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDelete.resx">
+      <DependentUpon>frmDelete.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMonitorInterval.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmMonitorInterval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReaderCapabilities.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmReaderCapabilities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReaderInfo.resx">
+      <DependentUpon>frmReaderInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetAntenna.resx">
+      <DependentUpon>frmSetAntenna.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplashScreen.resx">
+      <DependentUpon>frmSplashScreen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTest.resx">
+      <DependentUpon>frmTest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="PostBuild.Bat" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Validation.cs" />
+    <Compile Include="ValidationException.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\MotorolaLogo11.jpg" />
+    <Content Include="Resources\Symbol.gif" />
+    <None Include="Resources\SymSplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>"$(ProjectDir)PostBuild.bat" "$(SolutionName)" "$(ProjectDir)" "$(OutDir)"  "$(TargetFileName)"  "$(SolutionDir)"</PostBuildEvent>
+  </PropertyGroup>
+</Project>

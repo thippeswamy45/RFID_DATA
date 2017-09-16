@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string"/>
+							<xsd:attribute name="type" type="xsd:string"/>
+							<xsd:attribute name="mimetype" type="xsd:string"/>
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required"/>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<data name="About">
+		<value>About...</value>
+	</data>
+	<data name="ActiveProfile">
+		<value>Select Active Profile</value>
+	</data>
+	<data name="Back">
+		<value>[Back]</value>
+	</data>
+	<data name="ExitApp">
+		<value>[Exit]</value>
+	</data>
+	<data name="Item">
+		<value>Item</value>
+	</data>
+	<data name="CradleUnlock">
+		<value>Cradle Unlock</value>
+	</data>
+	<data name="DeviceLEDOnOff">
+		<value>Device LED On/Off</value>
+	</data>
+	<data name="CradleLEDOnOff">
+		<value>Cradle LED On/Off</value>
+	</data>
+	<data name="Scan">
+		<value>Scan...</value>
+	</data>
+	<data name="Data">
+		<value>Scanned Data</value>
+	</data>
+	<data name="CradleUnlocked">
+		<value>Cradle Unlocked</value>
+	</data>
+	<data name="MainTitle">
+		<value>   Scan...            Enter            Escape</value>
+	</data>
+	<data name="ScanTitle">
+		<value>                         Enter            Escape</value>
+	</data>
+	<data name="Scan">
+		<value>Scan...</value>
+	</data>
+	<data name="ItemNotSelected">
+		<value>Item not selected</value>
+	</data>
+	<data name="ScanInitializeFailed">
+		<value>Failed to initialize the scanner</value>
+	</data>
+	<data name="UnlockFailed">
+		<value>Failed to open the cradle port</value>
+	</data>
+	<data name="LedFailed">
+		<value>Failed to set the LED state</value>
+	</data>
+	<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>2.0</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader></root>

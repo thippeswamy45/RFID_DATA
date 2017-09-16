@@ -1,0 +1,111 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D96FFC08-2670-4EB1-804C-01C990EBC354}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CS_VBusSample1</RootNamespace>
+    <AssemblyName>CS_VBusSample1</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.0</OSVersion>
+    <DeployDirSuffix>CS_VBusSample1</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <NativePlatformName>Windows CE</NativePlatformName>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="Symbol, Version=1.6.1.3, Culture=neutral, PublicKeyToken=68ec8db391f150ca">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Symbol.Telemetry, Version=2.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Symbol.Telemetry\bin\Debug\Symbol.Telemetry.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources.cs" />
+    <Compile Include="VBusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VBusForm.Designer.cs">
+      <DependentUpon>VBusForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Resources.cs</DependentUpon>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VBusForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>VBusForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v3.5'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+</Project>
