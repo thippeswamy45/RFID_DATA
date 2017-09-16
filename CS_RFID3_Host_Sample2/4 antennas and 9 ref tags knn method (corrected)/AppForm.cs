@@ -514,6 +514,7 @@ namespace CS_RFID3_Host_Sample2
                                     {
                                         summ27 += tag.PeakRSSI;
                                         count27++;
+
                                     }
                                     else if (tagID == tag8)
                                     {
