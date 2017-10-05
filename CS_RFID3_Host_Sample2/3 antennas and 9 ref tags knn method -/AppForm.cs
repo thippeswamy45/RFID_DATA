@@ -2190,23 +2190,24 @@ namespace CS_RFID3_Host_Sample2
         }
         public void insertToXlFile(string tagId, string antId, uint count, string rssi)
         {
-          /*  string time2 = "none";
-            DateTime localDate1 = DateTime.Now;
-            
-          //  time2 = localDate1.ToString();
-            
-            string time = localDate1.ToString("hh.mm.ss.f tt");
-            xls.Visible = false;
-            ws.Cells[1, 1] = "tagId";
-            ws.Cells[1, 2] = "antId";
-            ws.Cells[1, 3] = "rssi";
-            ws.Cells[count, 1] = tagId;
-            ws.Cells[count, 2] = antId;
-            ws.Cells[count, 3] = rssi;
-            ws.Cells[1, 4] = "timestamp";
-            ws.Cells[count, 4] = time;
-            wb.Save();
-            */
+            /*  string time2 = "none";
+              DateTime localDate1 = DateTime.Now;
+
+            //  time2 = localDate1.ToString();
+
+              string time = localDate1.ToString("hh.mm.ss.f tt");
+              xls.Visible = false;
+              ws.Cells[1, 1] = "tagId";
+              ws.Cells[1, 2] = "antId";
+              ws.Cells[1, 3] = "rssi";
+              ws.Cells[count, 1] = tagId;
+              ws.Cells[count, 2] = antId;
+              ws.Cells[count, 3] = rssi;
+              ws.Cells[1, 4] = "timestamp";
+              ws.Cells[count, 4] = time;
+              wb.Save();
+              */
+            Console.WriteLine(tagId);
         }
 
         string MyConn = "datasource =localhost;port=3306;username=root;password=admin";

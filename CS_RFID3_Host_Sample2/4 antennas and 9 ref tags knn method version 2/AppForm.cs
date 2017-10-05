@@ -51,11 +51,13 @@ namespace CS_RFID3_Host_Sample2
         private int m_SortColumn = -1;
         private uint m_TagTotalCount;
         StringBuilder sbee1 = new StringBuilder();
-        public int counter = 5;
+        public int counter = 4;
         double[] summ = new double[41];
         double[] countt = new double[41];
         double[] j = new double[41];
-
+       public string tag1, tag15, tag3, tag4, tag5, tag6, tag11, tag8, tag13, tag7;
+      
+                           
         internal class AccessOperationResult
         {
             public RFIDResults m_Result;
@@ -117,6 +119,16 @@ namespace CS_RFID3_Host_Sample2
             m_TagTotalCount = 0;
             configureMenuItemsUponConnectDisconnect();
             backgroundWorker1.WorkerSupportsCancellation = true;
+            tag1 = "E280116060000205285A8BDE";
+            tag3 = "E280116060000205285A63C0";
+            tag4 = "E2002083950C01432820026A";
+            tag5 = "987654328509025716906595";
+            tag6 = "E280116060000205285A1D10";
+            tag7 = "E280116060000205285BFA50";
+            tag8 = "E2801160600002052859F172";
+            tag11 = "222222222222222222222222";
+            tag13 = "E2801160600002052859E8AF";
+            tag15 = "E280116060000205285A9B9E";
         }
 
         private void myUpdateStatus(Events.StatusEventData eventData)
@@ -219,23 +231,14 @@ namespace CS_RFID3_Host_Sample2
 
                         if (isFound)
                         {
-                          
-                            string tag1,tag15, tag3,tag4,tag5,tag6,tag11,tag8,tag13,tag7;
+
 
                             
-                            tag1 = "E280116060000205285A8BDE";                                                    
-                            tag3 = "E280116060000205285A63C0";
-                            tag4 = "E2002083950C01432820026A";
-                            tag5 = "987654328509025716906595";
-                            tag6 = "E280116060000205285A1D10";                          
-                            tag7 = "E280116060000205285BFA50";
-                            tag8 = "E2801160600002052859F172";
-                            tag11 = "222222222222222222222222";
-                            tag13 = "E2801160600002052859E8AF";
-                            tag15 = "E280116060000205285A9B9E";
+
+                            
                            
 
-                            uint count = 0;
+                           uint count = 0;
                             ListViewItem item = (ListViewItem)m_TagTable[tagID];
                             try
                             {
@@ -323,6 +326,7 @@ namespace CS_RFID3_Host_Sample2
                                         countt[9]++;
                                     }                                    
                                      else if (tagID == tag15)
+
                                     {
                                         summ[10] += tag.PeakRSSI;
                                         countt[10]++;
@@ -1420,7 +1424,7 @@ namespace CS_RFID3_Host_Sample2
                         else
                         {
                             m_ReaderAPI.Actions.Inventory.Stop();
-                            counter = 5;                            
+                            counter = 4;                            
                              j[1 ]= (summ[1] / countt[1]) * -1;
                            // j[1] = Math.Round(j[1], 3, MidpointRounding.AwayFromZero);
                           
@@ -1433,7 +1437,7 @@ namespace CS_RFID3_Host_Sample2
                              j[5] = (summ[5] / countt[5]) * -1;
                          //   j[5] = Math.Round(j[5], 3, MidpointRounding.AwayFromZero);
                              j[6] = (summ[6] / countt[6]) * -1;
-                            j[6] = Math.Round(j[6], 3, MidpointRounding.AwayFromZero);
+                          //  j[6] = Math.Round(j[6], 3, MidpointRounding.AwayFromZero);
                              j[7] = (summ[7] / countt[7]) * -1;
                           //  j[7] = Math.Round(j[7], 3, MidpointRounding.AwayFromZero);
                              j[8] = (summ[8] / countt[8]) * -1;
@@ -1454,7 +1458,7 @@ namespace CS_RFID3_Host_Sample2
                              j[15] = (summ[15] / countt[15]) * -1;
                          //   j[15] = Math.Round(j[15], 3, MidpointRounding.AwayFromZero);
                              j[16] = (summ[16] / countt[16]) * -1;
-                            j[16] = Math.Round(j[16], 3, MidpointRounding.AwayFromZero);
+                         //   j[16] = Math.Round(j[16], 3, MidpointRounding.AwayFromZero);
                              j[17] = (summ[17] / countt[17]) * -1;
                         //    j[17] = Math.Round(j[17], 3, MidpointRounding.AwayFromZero);
                              j[18] = (summ[18] / countt[18]) * -1;
@@ -1475,7 +1479,7 @@ namespace CS_RFID3_Host_Sample2
                              j[25] = (summ[25] / countt[25]) * -1;
                         //    j[25] = Math.Round(j[25], 3, MidpointRounding.AwayFromZero);
                              j[26] = (summ[26] / countt[26]) * -1;
-                            j[26] = Math.Round(j[26], 3, MidpointRounding.AwayFromZero);
+                          //  j[26] = Math.Round(j[26], 3, MidpointRounding.AwayFromZero);
                             j[27] = (summ[27] / countt[27]) * -1;
                          //   j[27] = Math.Round([j[27], 3, MidpointRounding.AwayFromZero);
                              j[28] = (summ[28] / countt[28]) * -1;
@@ -1496,7 +1500,7 @@ namespace CS_RFID3_Host_Sample2
                              j[35] = (summ[35] / countt[35]) * -1;
                          //   j[35] = Math.Round(j[35], 3, MidpointRounding.AwayFromZero);
                              j[36] = (summ[36] / countt[36]) * -1;
-                           j[36] = Math.Round(j[36], 3, MidpointRounding.AwayFromZero);
+                        //   j[36] = Math.Round(j[36], 3, MidpointRounding.AwayFromZero);
                              j[37] = (summ[37] / countt[37]) * -1;
                          //   j[37] = Math.Round(j[37], 3, MidpointRounding.AwayFromZero);
                             j[38] = (summ[38] / countt[38]) * -1;
@@ -1508,58 +1512,58 @@ namespace CS_RFID3_Host_Sample2
 
 
 
-                            /*    sbee1.AppendFormat("{0},", j[1]);//tag1
+                                sbee1.AppendFormat("{0},", j[1]);//tag1
                                 sbee1.AppendFormat("{0},", j[11]);
                                 sbee1.AppendFormat("{0},", j[21]);
                                 sbee1.AppendFormat("{0},", j[31]);
                                 sbee1.AppendLine();
-
-                                sbee1.AppendFormat("{0},", j[2]);//tag3
+                            /*  
+                               sbee1.AppendFormat("{0},", j[2]);//tag3
                                 sbee1.AppendFormat("{0},", j[12]);
                                 sbee1.AppendFormat("{0},", j[22]);
                                 sbee1.AppendFormat("{0},", j[32]);
                                 sbee1.AppendLine();
-                                sbee1.AppendFormat("{0},", j[3]);//tag4
-                                sbee1.AppendFormat("{0},", j[13]);
-                                sbee1.AppendFormat("{0},", j[23]);
-                                sbee1.AppendFormat("{0},", j[33]);
-                                sbee1.AppendLine();*/
-                            sbee1.AppendFormat("{0},", j[4]);//tag5
-                            sbee1.AppendFormat("{0},", j[14]);
-                            sbee1.AppendFormat("{0},", j[24]);
-                            sbee1.AppendFormat("{0},", j[34]);
-                            sbee1.AppendLine();
-                       /*     sbee1.AppendFormat("{0},", j[5]);//tag6
-                            sbee1.AppendFormat("{0},", j[15]);
-                            sbee1.AppendFormat("{0},", j[25]);
-                            sbee1.AppendFormat("{0},", j[35]);
-                            sbee1.AppendLine();*/
-                         Console.WriteLine("{0}\t{1}\t{2}\t{3}", j[4], j[14], j[24], j[34]);
-                            /*     sbee1.AppendFormat("{0},", j[6]);//tag7
-                                sbee1.AppendFormat("{0},", j[16]);
-                                sbee1.AppendFormat("{0},", j[26]);
-                                sbee1.AppendFormat("{0},", j[36]);
-                                sbee1.AppendLine();*/
-                            /*     sbee1.AppendFormat("{0},", j[7]);//tag8
-                                sbee1.AppendFormat("{0},", j[17]);
-                                sbee1.AppendFormat("{0},", j[27]);
-                                sbee1.AppendFormat("{0},", j[37]);
+                              sbee1.AppendFormat("{0},", j[3]);//tag4
+                              sbee1.AppendFormat("{0},", j[13]);
+                              sbee1.AppendFormat("{0},", j[23]);
+                              sbee1.AppendFormat("{0},", j[33]);
+                              sbee1.AppendLine();*/
+                            /* sbee1.AppendFormat("{0},", j[4]);//tag5
+                                sbee1.AppendFormat("{0},", j[14]);
+                                sbee1.AppendFormat("{0},", j[24]);
+                                sbee1.AppendFormat("{0},", j[34]);
                                 sbee1.AppendLine();
-                                sbee1.AppendFormat("{0},", j[8]);//tag11
-                                sbee1.AppendFormat("{0},", j[18]);
-                                sbee1.AppendFormat("{0},", j[28]);
-                                sbee1.AppendFormat("{0},", j[38]);
+                                sbee1.AppendFormat("{0},", j[5]);//tag6
+                                sbee1.AppendFormat("{0},", j[15]);
+                                sbee1.AppendFormat("{0},", j[25]);
+                                sbee1.AppendFormat("{0},", j[35]);
                                 sbee1.AppendLine();
-                               sbee1.AppendFormat("{0},", j[9]);//tag13
-                                sbee1.AppendFormat("{0},", j[19]);
-                                sbee1.AppendFormat("{0},", j[29]);
-                                sbee1.AppendFormat("{0},", j[39]);
-                                sbee1.AppendLine();
-                                sbee1.AppendFormat("{0},", j[10]);//tag15
-                                sbee1.AppendFormat("{0},", j[20]);
-                                sbee1.AppendFormat("{0},", j[30]);
-                                sbee1.AppendFormat("{0},", j[40]);
-                                sbee1.AppendLine();*/
+
+                                 sbee1.AppendFormat("{0},", j[6]);//tag7
+                                 sbee1.AppendFormat("{0},", j[16]);
+                                 sbee1.AppendFormat("{0},", j[26]);
+                                 sbee1.AppendFormat("{0},", j[36]);
+                                 sbee1.AppendLine();
+                                  sbee1.AppendFormat("{0},", j[7]);//tag8
+                                  sbee1.AppendFormat("{0},", j[17]);
+                                  sbee1.AppendFormat("{0},", j[27]);
+                                  sbee1.AppendFormat("{0},", j[37]);
+                                  sbee1.AppendLine();
+                                  sbee1.AppendFormat("{0},", j[8]);//tag11
+                                  sbee1.AppendFormat("{0},", j[18]);
+                                  sbee1.AppendFormat("{0},", j[28]);
+                                  sbee1.AppendFormat("{0},", j[38]);
+                                  sbee1.AppendLine();
+                                 sbee1.AppendFormat("{0},", j[9]);//tag13
+                                  sbee1.AppendFormat("{0},", j[19]);
+                                  sbee1.AppendFormat("{0},", j[29]);
+                                  sbee1.AppendFormat("{0},", j[39]);
+                                  sbee1.AppendLine();
+                                  sbee1.AppendFormat("{0},", j[10]);//tag15
+                                  sbee1.AppendFormat("{0},", j[20]);
+                                  sbee1.AppendFormat("{0},", j[30]);
+                                  sbee1.AppendFormat("{0},", j[40]);
+                                  sbee1.AppendLine();*/
 
 
                             /*  double R1, R2, R3, R4;
@@ -1860,8 +1864,8 @@ namespace CS_RFID3_Host_Sample2
             }
             m_LocateForm.ShowDialog(this);
         }
-        public void insertToXlFile(string tagId, string antId, uint count, string rssi)
-        {
+       // public void insertToXlFile(string tagId, string antId, uint count, string rssi)
+       // {
           /*  string time2 = "none";
             DateTime localDate1 = DateTime.Now;
             
@@ -1879,9 +1883,9 @@ namespace CS_RFID3_Host_Sample2
             ws.Cells[count, 4] = time;
             wb.Save();
             */
-        }
+       // }
 
-        string MyConn = "datasource =localhost;port=3306;username=root;password=admin";
+       /* string MyConn = "datasource =localhost;port=3306;username=root;password=admin";
 
 public void insertDatabase(string tagID, string antennaID, string rssi)
         {
@@ -1905,24 +1909,24 @@ public void insertDatabase(string tagID, string antennaID, string rssi)
             }
             myconn3.Close();
             return;
-        }
-        struct DataParameter
+        }*/
+       /* struct DataParameter
         {
             public string tagid;
             public string antennaID;
             public uint count;
             public string rssi;
-        }
+        }*/
        // private DataParameter _inputparameter;
 
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
-            try
-            {
+           // try
+          //  {
                 //  uint count = ((DataParameter)e.Argument).count;
-                string time2 = "none";
-                DateTime localDate1 = DateTime.Now;
-                time2 = localDate1.ToString("h.mm.ss.f tt "); // 7.00 AM // 12 hour clock
+              //  string time2 = "none";
+              //  DateTime localDate1 = DateTime.Now;
+             //   time2 = localDate1.ToString("h.mm.ss.f tt "); // 7.00 AM // 12 hour clock
                                                                // string sheetname = "Sheet1";
                                                                //  Workbook wb = xls.Workbooks.Open(@"C:\Users\Thippeswamy\Desktop\mydata.xlsx");
                                                                //  Worksheet ws = String.IsNullOrEmpty(sheetname) ? (Microsoft.Office.Interop.Excel.Worksheet)wb.ActiveSheet : (Microsoft.Office.Interop.Excel.Worksheet)wb.Worksheets[sheetname];
@@ -1941,11 +1945,11 @@ public void insertDatabase(string tagID, string antennaID, string rssi)
                 wb.Save();*/
                 //   string timestamp = time2 + ".xlsx";
                 //   wb.SaveAs(@"C:\Users\Thippeswamy\Desktop\" + timestamp);
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
+          //  }
+         //   catch (Exception ex)
+          //  {
+          //      Console.WriteLine(ex.Message);
+         //   }
             
         }
 
