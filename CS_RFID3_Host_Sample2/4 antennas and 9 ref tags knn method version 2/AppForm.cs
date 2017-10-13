@@ -1426,6 +1426,7 @@ namespace CS_RFID3_Host_Sample2
                             m_ReaderAPI.Actions.Inventory.Stop();
                             counter = 4;                            
                              j[1 ]= (summ[1] / countt[1]) * -1;
+
                            // j[1] = Math.Round(j[1], 3, MidpointRounding.AwayFromZero);
                           
                              j[2] = (summ[2] / countt[2]) * -1;
